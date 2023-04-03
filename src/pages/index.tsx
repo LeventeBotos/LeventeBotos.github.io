@@ -1,7 +1,5 @@
 export default function Home() {
   return (
-    <div>
-      Hello, I am Levente
-    </div>
+    <div className="bg-black">hi</div>
   )
 }
