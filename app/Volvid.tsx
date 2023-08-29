@@ -2,7 +2,7 @@ import React from "react";
 
 const Volvid = () => {
   return (
-    <div className=" w-full text-xl gap-5 rounded-xl flex flex-col bg-[#1f1f1f] dark:bg-white bg-opacity-5 dark:bg-opacity-5 self-center">
+    <div className=" w-full text-xl p-2 gap-5 rounded-xl flex flex-col bg-[#1f1f1f] dark:bg-white bg-opacity-5 dark:bg-opacity-5 self-center">
       <a
         href="https://volvid.vercel.app"
         className=" text-3xl pt-3 font-bold  hover:underline transition-all duration-200 ease-in-out "
@@ -29,7 +29,7 @@ const Volvid = () => {
           <ul className="gap-3">
             <p>Technologies used:</p>
             <li className="pl-5">Typescript</li>
-            <li className="pl-5">NextJs</li>
+            <li className="pl-5">NextJs - React</li>
             <li className="pl-5">Axios</li>
             <li className="pl-5">ExpressJs</li>
             <li className="pl-5">SendGrid</li>
