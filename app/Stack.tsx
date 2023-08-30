@@ -8,6 +8,7 @@ const Stack = () => {
       <p>NextJs</p>
       <p>TailwindCSS</p>
       <p>Firebase</p>
+      <p>Firestore</p>
     </div>
   );
 };
