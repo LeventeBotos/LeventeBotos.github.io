@@ -9,6 +9,7 @@ const Stack = () => {
       <p>TailwindCSS</p>
       <p>Firebase</p>
       <p>Firestore</p>
+      <p>Google Authentication</p>
     </div>
   );
 };
