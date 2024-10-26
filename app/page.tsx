@@ -13,7 +13,7 @@ const page = () => {
         <p>There'll be more.</p>
       </div>
       {/* <div className="p-5 flex flex-col gap-10 justify-evenly items-center">
-        <p className="text-3xl font-bold gradient">Some of my projects</p>
+        <p className="text-3xl font-bold gradient">Some of my projects:</p>
         <RollingRoyals />
         <Volvid />
       </div>
